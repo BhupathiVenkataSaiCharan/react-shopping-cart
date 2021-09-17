@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h5>GIT Host</h5>
+        <p>Learnig to host react-app using github</p>
       </header>
     </div>
   );
